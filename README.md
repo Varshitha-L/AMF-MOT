@@ -1,4 +1,4 @@
-AMF-MOT
+#AMF-MOT
 📖 Overview
 AMF-MOT is a research project focused on multi-object tracking (MOT) using adaptive model fusion techniques. The framework is designed to improve tracking accuracy, robustness, and efficiency across diverse environments.
 
